@@ -7,6 +7,14 @@
 	"Default":{
         "HeaderImage": "https://i.pinimg.com/originals/b0/06/7a/b0067ade5e832d2aefec8ee9bda50fdc.gif",
         "ViewCount": true
+    },
+	"RepositoryAccent": "#f9b72d",
+	 "featured": [
+    {
+      "name": "TQM-MOS Fonts",
+      "bundleid": "com.tqm-mos.fontmos",
+      "banner":"https://cdn.tgdd.vn/Files/2020/02/12/1236105/hihi_800x450.jpg",
+      "showname": false
     }
 	],
     "RepositoryContents": [
@@ -24,12 +32,12 @@
             },
             "Icon": "https://king-mos.github.io/Cydia.png",
             "HeaderImage": "https://i.pinimg.com/originals/b0/06/7a/b0067ade5e832d2aefec8ee9bda50fdc.gif",
-            "Category": "Tweaks",
+            "Category": "Other",
             "Caption": "Thay đổi phông chữ IOS",
 			"MinIOSVersion": "14.0",
             "MaxIOSVersion": "16.6.1",
             "Screenshot": [
-                "https://tqm-ios.github.io/fontmos.png"
+                "https://yangjiii.tech/file/Images/RepoImages/symbols.jpg"
             ],
 			"Releases": [
               {

@@ -7,7 +7,9 @@
 	"Default":{
         "HeaderImage": "https://i.pinimg.com/originals/b0/06/7a/b0067ade5e832d2aefec8ee9bda50fdc.gif",
         "ViewCount": true
-    },
+    }
+	],
+    "RepositoryContents": [
         {
             "Name": "TQM-MOS Fonts",
             "Description": "Thay đổi phông chữ IOS",

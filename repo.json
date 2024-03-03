@@ -1,6 +1,6 @@
 {
-    "RepositoryName": "TQM-MOS Fonts Repo",
-    "RepositoryDescription": "TQM-MOS Repo Fonts",
+    "RepositoryName": "TQM-MOS",
+    "RepositoryDescription": "TQM-MOS",
     "RepositoryAuthor": "TQM-MOS",
     "RepositoryIcon": "https://king-mos.github.io/Cydia.png",
     "RepositoryWebsite": "https://tqm-mos.com",
@@ -35,7 +35,7 @@
 			"MinIOSVersion": "14.0",
             "MaxIOSVersion": "16.6.1",
             "Screenshot": [
-                "https://yangjiii.tech/file/Images/RepoImages/symbols.jpg"
+                "https://tqm-ios.github.io/fontmos.png"
             ],
 			"Releases": [
               {

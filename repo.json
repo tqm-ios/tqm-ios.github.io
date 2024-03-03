@@ -1,8 +1,8 @@
 {
     "RepositoryName": "TQM-MOS",
-    "RepositoryDescription": "TQM-MOS",
+    "RepositoryDescription": "Tweaks MDC & KFD",
     "RepositoryAuthor": "TQM-MOS",
-    "RepositoryIcon": "https://king-mos.github.io/Cydia.png",
+    "RepositoryIcon": "https://tqm-ios.github.io/logo.png",
     "RepositoryWebsite": "https://tqm-mos.com",
 	"Default":{
         "HeaderImage": "https://i.pinimg.com/originals/b0/06/7a/b0067ade5e832d2aefec8ee9bda50fdc.gif",
@@ -14,7 +14,7 @@
       "name": "TQM-MOS Fonts",
       "bundleid": "com.tqm-mos.fontmos",
       "banner":"https://cdn.tgdd.vn/Files/2020/02/12/1236105/hihi_800x450.jpg",
-      "showname": false
+      "showname": true
     }
 	],
     "RepositoryContents": [
@@ -32,12 +32,12 @@
             },
             "Icon": "https://king-mos.github.io/Cydia.png",
             "HeaderImage": "https://i.pinimg.com/originals/b0/06/7a/b0067ade5e832d2aefec8ee9bda50fdc.gif",
-            "Category": "Other",
+            "Category": "Tweaks",
             "Caption": "Thay đổi phông chữ IOS",
 			"MinIOSVersion": "14.0",
             "MaxIOSVersion": "16.6.1",
             "Screenshot": [
-                "https://yangjiii.tech/file/Images/RepoImages/symbols.jpg"
+                "https://tqm-ios.github.io/fontmos.png"
             ],
 			"Releases": [
               {

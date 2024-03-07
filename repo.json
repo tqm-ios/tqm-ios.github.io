@@ -65,7 +65,7 @@
             "Category": "Tweaks",
             "Caption": "Biểu Tượng Ổ Khoá",
 			"MinIOSVersion": "15.0",
-            "MaxIOSVersion": "16.6.1",
+            "MaxIOSVersion": "15.8",
             "Screenshot": [
                 "https://tqm-ios.github.io/locktqm.png"
             ],
@@ -77,7 +77,36 @@
               }
             ],
             "PackageID": "com.tqm-mos.lockdevtqm"
-        }
-		
+        },
+	            {
+		            "Name": "Lock DEV TQM 16",
+            "Description": "Biểu Tượng Ổ Khoá",
+            "Author": {
+                "Label": "TQM-MOS",
+                "Links": [
+                    {
+                        "Label": "TQM-MOS",
+                        "Link": "https://zalo.me/0868388373"
+                    }
+                ]
+            },
+            "Icon": "https://king-mos.github.io/Cydia.png",
+            "HeaderImage": "https://i.pinimg.com/originals/b0/06/7a/b0067ade5e832d2aefec8ee9bda50fdc.gif",
+            "Category": "Tweaks",
+            "Caption": "Biểu Tượng Ổ Khoá",
+			"MinIOSVersion": "16.0",
+            "MaxIOSVersion": "16.8",
+            "Screenshot": [
+                "https://tqm-ios.github.io/locktqm.png"
+            ],
+			"Releases": [
+              {
+                  "Version": "1.0",
+                  "Package": "https://tqm-ios.github.io/com.tqm-mos.lockdevtqm16.misaka",
+                  "Description": "Biểu Tượng Ổ Khoá"
+              }
+            ],
+            "PackageID": "com.tqm-mos.lockdevtqm16"
+        },
     ]
 }

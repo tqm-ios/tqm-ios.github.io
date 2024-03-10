@@ -108,5 +108,35 @@
             ],
             "PackageID": "com.tqm-mos.lockdevtqm16"
         },
+	    	            {
+		            "Name": "Color Mix",
+            "Description": "Chủ đề IOS",
+            "Author": {
+                "Label": "TQM-MOS",
+                "Links": [
+                    {
+                        "Label": "TQM-MOS",
+                        "Link": "https://zalo.me/0868388373"
+                    }
+                ]
+            },
+            "Icon": "https://king-mos.github.io/Cydia.png",
+            "HeaderImage": "https://i.pinimg.com/originals/b0/06/7a/b0067ade5e832d2aefec8ee9bda50fdc.gif",
+            "Category": "Tweaks",
+            "Caption": "Chủ đề IOS",
+			"MinIOSVersion": "15.0",
+            "MaxIOSVersion": "16.8",
+            "Screenshot": [
+                "https://tqm-ios.github.io/color.png"
+            ],
+			"Releases": [
+              {
+                  "Version": "1.0",
+                  "Package": "https://tqm-ios.github.io/com.tqm-mos.colormix.misaka",
+                  "Description": "Chủ đề IOS"
+              }
+            ],
+            "PackageID": "com.tqm-mos.colormix"
+        },
     ]
 }

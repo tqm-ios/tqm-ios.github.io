@@ -19,7 +19,7 @@
 					<key>needs-shine</key>
 					<true/>
 					<key>url</key>
-					<string>http://king-mos.github.io/icon/dangtai.png</string>
+					<string>http://king-mos.github.io/Cydia.png</string>
 				</dict>
 				<dict>
 					<key>kind</key>
@@ -27,7 +27,7 @@
 					<key>needs-shine</key>
 					<true/>
 					<key>url</key>
-					<string>http://tqm-ios.github.io/B.png</string>
+					<string>http://king-mos.github.io/Cydia.png</string>
 				</dict>
 			</array>
 			<key>metadata</key>
@@ -35,7 +35,7 @@
 				<key>bundle-identifier</key>
 				<string>com.tqm.gbox</string>
 				<key>bundle-version</key>
-				<string>4.6</string>
+				<string>5.2.2</string>
 				<key>kind</key>
 				<string>software</string>
 				<key>subtitle</key>

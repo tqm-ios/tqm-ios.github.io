@@ -19,7 +19,7 @@
 					<key>needs-shine</key>
 					<true/>
 					<key>url</key>
-					<string>http://tqm-ipa.github.io/icon/dangtai.png</string>
+					<string>http://tqm-mos.com/Cydia.png</string>
 				</dict>
 				<dict>
 					<key>kind</key>
@@ -27,7 +27,7 @@
 					<key>needs-shine</key>
 					<true/>
 					<key>url</key>
-					<string>http://tqm-ipa.github.io/icon/trollstore.png</string>
+					<string>http://tqm-mos.com/Cydia.png</string>
 				</dict>
 			</array>
 			<key>metadata</key>
@@ -35,11 +35,11 @@
 				<key>bundle-identifier</key>
 				<string>com.tqm.TrollInstaller</string>
 				<key>bundle-version</key>
-				<string>1.2</string>
+				<string>2.0.15</string>
 				<key>kind</key>
 				<string>software</string>
 				<key>subtitle</key>
-				<string>Ông Cễnh</string>
+				<string>TQM</string>
 				<key>title</key>
 				<string>TrollInstaller TQM</string>
 			</dict>

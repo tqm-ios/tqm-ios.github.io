@@ -1,0 +1,6 @@
+{
+  "minOSVersion": "10.0",
+  "maxOSVersion": "15.0",
+  "otheriOS": "untested",
+  "changelog": {}
+}

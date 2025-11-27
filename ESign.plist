@@ -19,7 +19,7 @@
 					<key>needs-shine</key>
 					<true/>
 					<key>url</key>
-					<string>http://king-mos.github.io/icon/dangtai.png</string>
+					<string>http://tqm-mos.com/Cydia.png</string>
 				</dict>
 				<dict>
 					<key>kind</key>
@@ -27,7 +27,7 @@
 					<key>needs-shine</key>
 					<true/>
 					<key>url</key>
-					<string>http://tqm-ios.github.io/B.png</string>
+					<string>http://tqm-mos.com/Cydia.png</string>
 				</dict>
 			</array>
 			<key>metadata</key>

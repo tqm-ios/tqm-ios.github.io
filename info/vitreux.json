@@ -19,7 +19,7 @@
         },
         {
           "class": "DepictionMarkdownView",
-          "markdown": "<p style=\"font-size:12pt;\"> Là ứng dụng có thể kết nối đến CarPlay.</p>\n<p style=\"font-size:12pt;\">Bạn có thể xem tất cả các ứng dụng trên chiếc điện thoại Iphone của mình ở trên màn hình xe ô tô. Như là Youtube, Zing mp3, Vtvgo, Mạng xã hội, Facebook, nghe nhạc, xem phim hay là chơi game.</p>",
+          "markdown": "<p style=\"font-size:12pt;\">Mang hiệu ứng Liquid Glass xuống các phiên bản iOS cũ hơn.</p>",
           "useRawFormat": true
         },
         {
@@ -41,7 +41,19 @@
           "screenshots": [
             {
               "accessibilityText": "Screenshot",
-              "url": "https://tqm-mos.com/info/carbridge/screenshots/1.png"
+              "url": "https://tqm-mos.com/info/vitreux/screenshots/1.png"
+            },
+            {
+              "accessibilityText": "Screenshot",
+              "url": "https://tqm-mos.com/info/vitreux/screenshots/2.png"
+            },
+            {
+              "accessibilityText": "Screenshot",
+              "url": "https://tqm-mos.com/info/vitreux/screenshots/3.png"
+            },
+            {
+              "accessibilityText": "Screenshot",
+              "url": "https://tqm-mos.com/info/vitreux/screenshots/4.png"
             }
           ]
         },
@@ -64,7 +76,7 @@
         },
         {
           "class": "DepictionTableTextView",
-          "text": "13.0 - 17.X",
+          "text": "15.0 - 17.X",
           "title": "Hỗ trợ"
         },
         {

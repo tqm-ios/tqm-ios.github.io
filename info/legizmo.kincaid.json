@@ -1,0 +1,117 @@
+{
+  "class": "DepictionTabView",
+  "headerImage": "https://tqm-mos.com/info/data/logosileo.png",
+  "minVersion": "0.3",
+  "itemSize": "{330, 110}",
+  "tabs": [
+    {
+      "class": "DepictionStackView",
+      "tabname": "Mô tả",
+      "tintColor": "#1182c4",
+      "views": [
+        {
+          "class": "DepictionHeaderView",
+          "useBoldText": true,
+          "useBottomMargin": false
+        },        {
+          "class": "DepictionSpacerView",
+          "spacing": 8
+        },
+        {
+          "class": "DepictionMarkdownView",
+          "markdown": "<p style=\"font-size:13pt;\">Legizmo ‘Kincaid’ không tương thích với các phiên bản XinaA15 cũ hơn, đã root. Vui lòng cập nhật lên XinaA15 không root, hoặc sử dụng phiên bản Legizmo TrollStore trên các thiết bị này.</p>\n<p style=\"font-size:13pt;\">Các phiên bản Legizmo đã jailbreak không thể sử dụng trên các thiết bị đã được jailbreak một phần. Trên các thiết bị này, hãy sử dụng phiên bản Legizmo TrollStore.</p>\n<p style=\"font-size:12pt;\">Bạn có một chiếc Apple Watch mới toanh, nhưng khi thử kết nối với iPhone đã jailbreak, iOS lại báo (không)? Bạn đang phân vân giữa việc nên tiếp tục jailbreak và không sử dụng Watch, hay nên sử dụng Watch nhưng hy sinh jailbreak và cập nhật iOS?</p>\n<p style=\"font-size:12pt;\">Vậy nếu bạn có thể làm được cả hai thì sao? Với Legizmo, bạn hoàn toàn có thể.</p>\n<p style=\"font-size:12pt;\">Cho dù bạn đang cố gắng kết nối một chiếc Apple Watch hoàn toàn mới đang chạy phiên bản watchOS quá mới so với phiên bản iOS đã jailbreak của mình, hay bạn đã kết nối nhưng muốn cập nhật watchOS để tận dụng các tính năng mới nhất trong khi vẫn giữ iPhone đã jailbreak, Legizmo được thiết kế để giúp bạn thực hiện điều đó.</p>\n<p style=\"font-size:12pt;\">Legizmo 'Kincaid' được thiết kế để cho phép bạn kết nối Apple Watch đang chạy watchOS 1.0 đến watchOS 9.x trên iOS 13 hoặc mới hơn.</p>",
+          "useRawFormat": true
+        },
+        {
+          "class": "DepictionSeparatorView"
+        },
+        {
+          "class": "DepictionHeaderView",
+          "useBoldText": true,
+          "useBottomMargin": false
+        },
+        {
+          "class": "DepictionSpacerView",
+          "spacing": 16
+        },
+        {
+          "class": "DepictionScreenshotsView",
+          "itemCornerRadius": 8,
+          "itemSize": "{430, 430}",
+          "screenshots": [
+            {
+              "accessibilityText": "Screenshot",
+              "url": "https://tqm-mos.com/info/legizmo.kincaid/screenshots/1.png"
+            },
+            {
+              "accessibilityText": "Screenshot",
+              "url": "https://tqm-mos.com/info/legizmo.kincaid/screenshots/2.png"
+            },
+            {
+              "accessibilityText": "Screenshot",
+              "url": "https://tqm-mos.com/info/legizmo.kincaid/screenshots/3.png"
+            }
+          ]
+        },
+        {
+          "class": "DepictionSpacerView",
+          "spacing": 16
+        },
+        {
+          "class": "DepictionSeparatorView"
+        },
+        {
+          "class": "DepictionSpacerView",
+          "spacing": 16
+        },
+        {
+          "class": "DepictionHeaderView",
+          "title": "Phiên bản hiện tại 🍎",
+          "useBoldText": true,
+          "useBottomMargin": false
+        },
+        {
+          "class": "DepictionTableTextView",
+          "text": "13.0 - 16.X",
+          "title": "Hỗ trợ"
+        },
+        {
+          "class": "DepictionSpacerView",
+          "spacing": 16
+        }
+      ]
+    },
+    {
+      "class": "DepictionStackView",
+      "tabname": "Liên hệ & Hỗ trợ",
+      "tintColor": "#1182c4",
+      "views": [
+        {
+          "class": "DepictionSpacerView",
+          "spacing": 16
+        },
+        {
+          "action": "https://zalo.me/0868388373",
+          "class": "DepictionTableButtonView",
+          "title": "Zalo (TQM-MOS)",
+          "openExternal": true
+        },
+        {
+          "action": "mailto:anhminh311105@gmail.com",
+          "class": "DepictionTableButtonView",
+          "title": "Gmail"
+        },
+        {
+          "action": "https://www.paypal.me/tranquangminh2202",
+          "class": "DepictionTableButtonView",
+          "title": "Ủng hộ tôi 🍺 PayPal"
+        },
+        {
+          "class": "DepictionSpacerView",
+          "spacing": 16
+        }
+      ]
+    }
+  ],
+  "tintColor": "#1182c4"
+}

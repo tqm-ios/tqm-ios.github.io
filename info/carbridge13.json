@@ -41,7 +41,27 @@
           "screenshots": [
             {
               "accessibilityText": "Screenshot",
-              "url": "https://tqm-mos.com/info/carbridge/screenshots/1.png"
+              "url": "https://tqm-mos.com/info/carbridge13/screenshots/1.png"
+            },
+            {
+              "accessibilityText": "Screenshot",
+              "url": "https://tqm-mos.com/info/carbridge13/screenshots/2.png"
+            },
+            {
+              "accessibilityText": "Screenshot",
+              "url": "https://tqm-mos.com/info/carbridge13/screenshots/3.png"
+            },
+            {
+              "accessibilityText": "Screenshot",
+              "url": "https://tqm-mos.com/info/carbridge13/screenshots/4.png"
+            },
+            {
+              "accessibilityText": "Screenshot",
+              "url": "https://tqm-mos.com/info/carbridge13/screenshots/5.png"
+            },
+            {
+              "accessibilityText": "Screenshot",
+              "url": "https://tqm-mos.com/info/carbridge13/screenshots/6.png"
             }
           ]
         },

@@ -1,4 +1,3 @@
-
 {
   "class": "DepictionTabView",
   "headerImage": "https://tqm-mos.com/info/data/logosileo.png",
@@ -7,18 +6,20 @@
   "tabs": [
     {
       "class": "DepictionStackView",
-      "tabname": "Chi tiết",
+      "tabname": "Mô tả",
       "tintColor": "#1182c4",
       "views": [
         {
           "class": "DepictionHeaderView",
-          "title": "Mô tả",
           "useBoldText": true,
           "useBottomMargin": false
+        },        {
+          "class": "DepictionSpacerView",
+          "spacing": 8
         },
         {
           "class": "DepictionMarkdownView",
-          "markdown": "<p style=\"font-size:11pt;\"> Tạo hiệu ứng kiến bò trên màn hình.</p>",
+          "markdown": "<p style=\"font-size:12pt;\"> Tạo hiệu ứng kiến bò trên màn hình.</p>",
           "useRawFormat": true
         },
         {
@@ -26,14 +27,17 @@
         },
         {
           "class": "DepictionHeaderView",
-          "title": "Hình ảnh",
           "useBoldText": true,
           "useBottomMargin": false
         },
         {
+          "class": "DepictionSpacerView",
+          "spacing": 16
+        },
+        {
           "class": "DepictionScreenshotsView",
           "itemCornerRadius": 8,
-          "itemSize": "{330, 330}",
+          "itemSize": "{430, 430}",
           "screenshots": [
             {
               "accessibilityText": "Screenshot",
@@ -54,45 +58,14 @@
         },
         {
           "class": "DepictionHeaderView",
-          "title": "Phiên bản hiện tại",
+          "title": "Phiên bản hiện tại 🍎",
           "useBoldText": true,
           "useBottomMargin": false
         },
         {
-          "class": "DepictionSpacerView",
-          "spacing": 8
-        },
-        {
           "class": "DepictionTableTextView",
-          "text": "12.0 - 14.x",
+          "text": "12.0 - 14.X",
           "title": "Hỗ trợ"
-        },
-        {
-          "class": "DepictionSpacerView",
-          "spacing": 16
-        },
-        {
-          "class": "DepictionSeparatorView"
-        },
-        {
-          "class": "DepictionSpacerView",
-          "spacing": 16
-        },
-        {
-          "action": "https://zalo.me/0868388373",
-          "class": "DepictionTableButtonView",
-          "title": "Liên hệ Zalo (TQM-MOS)",
-          "openExternal": true
-        },
-        {
-          "action": "mailto:anhminh311105@gmail.com",
-          "class": "DepictionTableButtonView",
-          "title": "Trợ giúp & Hỗ Trợ"
-        },
-        {
-          "action": "https://www.paypal.me/tranquangminh2202",
-          "class": "DepictionTableButtonView",
-          "title": "Ủng hộ tôi 🍺 PayPal"
         },
         {
           "class": "DepictionSpacerView",
@@ -102,13 +75,32 @@
     },
     {
       "class": "DepictionStackView",
-      "tabname": "Lịch sử",
+      "tabname": "Liên hệ & Hỗ trợ",
       "tintColor": "#1182c4",
       "views": [
         {
-          "class": "DepictionMarkdownView",
-          "markdown": "<ul>\n<li>Đang cập nhật.</li>\n</ul>",
-          "useRawFormat": true
+          "class": "DepictionSpacerView",
+          "spacing": 16
+        },
+        {
+          "action": "https://zalo.me/0868388373",
+          "class": "DepictionTableButtonView",
+          "title": "Zalo (TQM-MOS)",
+          "openExternal": true
+        },
+        {
+          "action": "mailto:anhminh311105@gmail.com",
+          "class": "DepictionTableButtonView",
+          "title": "Gmail"
+        },
+        {
+          "action": "https://www.paypal.me/tranquangminh2202",
+          "class": "DepictionTableButtonView",
+          "title": "Ủng hộ tôi 🍺 PayPal"
+        },
+        {
+          "class": "DepictionSpacerView",
+          "spacing": 16
         }
       ]
     }

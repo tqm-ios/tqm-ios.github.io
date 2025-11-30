@@ -1,4 +1,5 @@
 {"class":"FeaturedBannersView","itemSize":"{263, 148}","itemCornerRadius":8,"banners":[{"package":"com.tqm-mos.carbridge13","title":"CarBridge","url":"https://tqm-mos.com/info/data/carbridge.png","hideShadow":"false"},
+{"package":"com.tqm-mos.bridge","title":"Bridge","url":"https://tqm-mos.com/info/data/bridge.png","hideShadow":"false"},
 {"package":"com.tqm-mos.aim","title":"AIM","url":"https://tqm-mos.com/info/data/aim.png","hideShadow":"false"},
 {"package":"com.tqm-mos.legizmo.kincaid","title":"Legizmo Kincaid","url":"https://tqm-mos.com/info/data/legizmo.png","hideShadow":"false"},
 {"package":"com.tqm-mos.sixls","title":"Six LS","url":"https://tqm-mos.com/info/data/sixls.png","hideShadow":"false"}]}

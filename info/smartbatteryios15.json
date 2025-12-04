@@ -19,7 +19,7 @@
         },
         {
           "class": "DepictionMarkdownView",
-          "markdown": "<p style=\"font-size:12pt;\"> Đa nhiệm tốt nhất trên thiết bị của bạn!</p>\n<p style=\"font-size:12pt;\">Kích hoạt hoặc vô hiệu hóa tweak theo yêu cầu</p>\n<p style=\"font-size:12pt;\">Chọn giữa chế độ hiển thị các ứng dụng gần đây hoặc ứng dụng yêu thích</p>\n<p style=\"font-size:12pt;\">Định cấu hình có bao nhiêu ứng dụng có thể xuất hiện trong menu cùng một lúc ( khi bạn chọn chế độ hiển thị các ứng dụng gần đây</p>\n<p style=\"font-size:12pt;\">Chọn giữa giao diện Menu sáng hoặc tối</p>\n<p style=\"font-size:12pt;\">Ẩn Menu khi xoay ngang (chưa hỗ trợ tốt khi xoay ngang nên tốt nhất bạn nên ẩn nó đi khi xoay ngang thiết bị).</p>",
+          "markdown": "<p style=\"font-size:12pt;\">Điện thoại của bạn thông minh, nhưng pin của bạn thì không! SmartBattery là thứ duy nhất cản trở bạn để có điện thoại thông minh hoàn chỉnh! SmartBattery là tinh chỉnh tốt nhất để tiết kiệm pin của bạn với rất nhiều các tính năng rất thông minh.</p>",
           "useRawFormat": true
         },
         {
@@ -41,11 +41,27 @@
           "screenshots": [
             {
               "accessibilityText": "Screenshot",
-              "url": "https://tqm-mos.com/info/pullOverpro/screenshots/1.png"
+              "url": "https://tqm-mos.com/info/smartbatteryios15/screenshots/1.png"
             },
-{
+            {
               "accessibilityText": "Screenshot",
-              "url": "https://tqm-mos.com/info/pullOverpro/screenshots/2.png"
+              "url": "https://tqm-mos.com/info/smartbatteryios15/screenshots/2.png"
+            },
+            {
+              "accessibilityText": "Screenshot",
+              "url": "https://tqm-mos.com/info/smartbatteryios15/screenshots/3.png"
+            },
+            {
+              "accessibilityText": "Screenshot",
+              "url": "https://tqm-mos.com/info/smartbatteryios15/screenshots/4.png"
+            },
+            {
+              "accessibilityText": "Screenshot",
+              "url": "https://tqm-mos.com/info/smartbatteryios15/screenshots/5.png"
+            },
+            {
+              "accessibilityText": "Screenshot",
+              "url": "https://tqm-mos.com/info/smartbatteryios15/screenshots/6.png"
             }
           ]
         },
@@ -68,7 +84,7 @@
         },
         {
           "class": "DepictionTableTextView",
-          "text": "10.0 - 17.X",
+          "text": "15.0 - 17.X",
           "title": "Hỗ trợ"
         },
         {

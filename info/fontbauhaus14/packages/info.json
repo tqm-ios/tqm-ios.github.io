@@ -2,9 +2,5 @@
   "minOSVersion": "14.0",
   "maxOSVersion": "17.0",
   "otheriOS": "untested",
-  "changelog": {
-  },
-  "screenshots": {
-  },
-  "links": {}
+  "changelog": {}
 }

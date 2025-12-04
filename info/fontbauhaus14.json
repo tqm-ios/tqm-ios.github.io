@@ -19,7 +19,7 @@
         },
         {
           "class": "DepictionMarkdownView",
-          "markdown": "<p style=\"font-size:12pt;\"> Gói phụ trợ với 1 số tinh chỉnh.</p>",
+          "markdown": "<p style=\"font-size:12pt;\">Phông chữ Bauhaus</p>\n<p style=\"font-size:12pt;\">Kích hoạt qua tinh chỉnh Snowboard.</p>\n<p style=\"font-size:12pt;\">Sau khi áp dụng cần Dọn Rác qua iCleanPro để hiển thị đầy đủ.</p>",
           "useRawFormat": true
         },
         {
@@ -41,7 +41,7 @@
           "screenshots": [
             {
               "accessibilityText": "Screenshot",
-              "url": "https://tqm-mos.com/info/data/tweaks.png"
+              "url": "https://tqm-mos.com/info/fontbauhaus14/screenshots/1.png"
             }
           ]
         },
